@@ -289,6 +289,7 @@ section{
   border-radius: 100%;
   width: 220px;
   height: 220px;
+  top:30px;
  
   
  
@@ -464,7 +465,7 @@ section{
   
 }
 #heading-1{
-  width: 146px;
+  width: 166px;
   margin: auto;
   
 }
@@ -928,7 +929,7 @@ article{
 
 }
 #vision-heading{
-  width: 155px;
+  width: 135px;
   margin: auto;
   border-bottom:5px solid white;
 }
